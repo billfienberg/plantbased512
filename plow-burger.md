@@ -2,6 +2,7 @@
 layout: page
 title: "Plow Burger"
 permalink: /plow-burger/
+theme: jekyll-theme-cayman
 ---
 
 # Plow Burger
